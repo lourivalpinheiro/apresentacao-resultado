@@ -186,7 +186,7 @@ st.markdown(
     """
 ### 📊 Diagnóstico atual
 
-Atualmente, o setor de fechamento opera com uma **estrutura enxuta**, contando com **Lourival em total execução das atividades operacionais**. 
+Atualmente, o setor de fechamento opera com uma estrutura enxuta, contando com Lourival em total execução das atividades operacionais. 
 Há também o apoio de Danúbia, que atua de forma complementar conforme a necessidade do setor, e cujo auxílio é de extrema valia.
 
 Os **processos de fechamento ainda estão em fase de consolidação**, o que é natural em um cenário de estruturação da área. 
