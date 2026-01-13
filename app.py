@@ -11,7 +11,7 @@ st.set_page_config(
     page_icon="📊"
 )
 
-st.write("# 📊 Apresentação de resultados")
+st.write("# 📊 Apresentação de resultados - Setor Contábil")
 st.divider()
 
 # =====================================================
